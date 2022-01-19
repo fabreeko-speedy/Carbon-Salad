@@ -1,7 +1,7 @@
 # Carbon-Salad
 Carbon fiber gantry member for the [Salad Fork](https://github.com/Yeriwyn/Salad_Fork), adaptable to the [Micron](https://github.com/hartk1213/Micron), inspired by aTinyShellScript's [CarbonFiberX V2.4 mod](https://github.com/aTinyShellScript/VoronUsers/tree/CarbonFiberX/printer_mods/aTinyShellScript/CarbonFiberX)
 
-***This is an early, untested work in progress, and is subject to change!***
+***This is an early, untested work in progress, and is subject to change! PRs accepted if you want to help.***
 
 [![](https://img.shields.io/discord/825469421346226226?color=green&label=Salad-Fork&logo=discord&logoColor=fafafa)](https://discord.gg/doomcube)
 
